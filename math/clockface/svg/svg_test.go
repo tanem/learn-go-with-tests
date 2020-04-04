@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	svg "github.com/tanem/learn-go-with-tests/math/clockface/svg"
+	"github.com/tanem/learn-go-with-tests/math/clockface/svg"
 )
 
 type SVG struct {
