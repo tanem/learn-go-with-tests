@@ -4,7 +4,7 @@
 [![Build Status](https://img.shields.io/travis/com/tanem/learn-go-with-tests?style=flat-square)](https://travis-ci.com/tanem/learn-go-with-tests)
 [![Coverage Status](https://img.shields.io/codecov/c/github/tanem/learn-go-with-tests?style=flat-square)](https://codecov.io/gh/tanem/learn-go-with-tests)
 
-[Background](#background)
+[Background](#background) | [My Approach](#my-approach) | [Editor Setup](#editor-setup) | [Useful Learning Material](#useful-learning-material) | [License](#license)
 
 ## Background
 
@@ -22,7 +22,7 @@ In both cases, I allowed myself to dive down into rabbitholes as I referred to e
 
 I used the [Go Extension](https://code.visualstudio.com/docs/languages/go) for [Visual Studio Code](https://code.visualstudio.com/).
 
-## Some Useful Learning Material
+## Useful Learning Material
 
 - [A Tour of Go](https://tour.golang.org/)
 - [Go by Example](https://gobyexample.com/)
