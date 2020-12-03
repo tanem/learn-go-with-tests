@@ -1,7 +1,7 @@
 # learn-go-with-tests
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/tanem/learn-go-with-tests?style=flat-square)](https://goreportcard.com/report/github.com/tanem/learn-go-with-tests)
-[![Build Status](https://img.shields.io/travis/com/tanem/learn-go-with-tests?style=flat-square)](https://travis-ci.com/tanem/learn-go-with-tests)
+[![build status](https://img.shields.io/github/workflow/status/tanem/learn-go-with-tests/CI?style=flat-square)](https://github.com/tanem/learn-go-with-tests/actions?query=workflow%3ACI)
 [![Coverage Status](https://img.shields.io/codecov/c/github/tanem/learn-go-with-tests?style=flat-square)](https://codecov.io/gh/tanem/learn-go-with-tests)
 
 [Background](#background) | [My Approach](#my-approach) | [Editor Setup](#editor-setup) | [Useful Learning Material](#useful-learning-material) | [License](#license)
