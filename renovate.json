@@ -1,9 +1,10 @@
 {
+  "dependencyDashboardOSVVulnerabilitySummary": "all",
   "extends": [
-    "config:base",
+    "config:recommended",
     ":rebaseStalePrs",
-    ":masterIssue"
+    ":dependencyDashboard"
   ],
-  "prCreation": "not-pending",
-  "stabilityDays": 3
+  "minimumReleaseAge": "3 days",
+  "osvVulnerabilityAlerts": true
 }
